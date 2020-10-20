@@ -12,7 +12,7 @@ First Practices using the testing tool: Jest
 
 ## Features
 
-A user can see the tests passes
+A user can see when the tests pass
 
 ## Built With
 
@@ -20,25 +20,25 @@ A user can see the tests passes
 - WebPack
 - Jest
 - ESLint (Linter) with Stickler (CI Tool)
-- Git, Github and VScode
+- Git, Github, and Visual Studio Code
 <br>
 
 ## Getting Start
 
 #### Get a local copy
-Now you need a copy of this application, if you are using Git:
+Now you need a copy of this application if you are using Git:
 ```js
 git@github.com:rsnazario/testing-practice-js.git
 ```
-Otherwise just hit (Download Zip) on green button (Clone or Download) at top of this page.
+Click (Download Zip) on the green button (Clone or Download) on this page.
 
 #### Run App
 
-In order to install its dependencies, run in your terminal:
+To install its dependencies, run in your terminal:
 ```js
 npm install
 ```
-This command will install all its dependencies for node_modules folder, along with the Jest tool. Then, just run the script for testing:
+This command will install all its dependencies for the node_modules folder, along with the Jest tool. Then, just run the script for testing:
 
 ```js
 npm run test
@@ -47,13 +47,13 @@ Check the results =)
 
 ### Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
 
 You can do it on [issues page](issues/).
 
 ## Acknowledgments
 
-A special thanks for all Microverse Team and Code Reviewers that guides me through my learning.
+A special thanks to all Microverse Team and Code Reviewers that guides me through my learning.
 
 ## Authors
 
@@ -68,8 +68,3 @@ A special thanks for all Microverse Team and Code Reviewers that guides me throu
 - Github: [@rsnazario](https://github.com/rsnazario)
 - Twitter: [@@rsnazario](https://twitter.com/@rsnazario)
 - Linkedin: [Rafael Nazario](https://www.linkedin.com/in/rsnazario/)
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
